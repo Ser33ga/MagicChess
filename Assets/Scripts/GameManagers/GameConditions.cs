@@ -1,0 +1,1 @@
+public enum GameCondition {Choosing,Battle,Pause};

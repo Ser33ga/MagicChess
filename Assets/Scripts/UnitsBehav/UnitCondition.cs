@@ -1,0 +1,1 @@
+public enum UnitCondition {Idle, Run, Attack, Win, Death};
