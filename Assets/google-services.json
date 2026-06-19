@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "701885791699",
+    "project_id": "magicchess-406f4",
+    "storage_bucket": "magicchess-406f4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701885791699:android:a8c7c598e13ea7b5ef8326",
+        "android_client_info": {
+          "package_name": "com.ser33ga.magicchess"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRicXZZH_RTXMXcOh3xcru75Mp2xUAxfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

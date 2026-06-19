@@ -6,7 +6,7 @@ public class MainLifetimeScoupe : LifetimeScope
 {
     protected override void Configure(IContainerBuilder builder)
     {
-        builder.RegisterEntryPoint<BootEntryPoint>(Lifetime.Scoped);
+        builder.RegisterEntryPoint<BootEntryPoint>(Lifetime.Singleton);
         builder.Register<SceneLoader>(Lifetime.Singleton);
         builder.Register<ProxyBetweenScenes>(Lifetime.Singleton);
         builder.RegisterComponent(FindObjectOfType<Camera>());

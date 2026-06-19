@@ -45,6 +45,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameLifetimeScope
   parentReference:
-    TypeName: MainLifetimeScoupe
+    TypeName: 
   autoRun: 1
   autoInjectGameObjects: []

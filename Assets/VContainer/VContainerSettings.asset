@@ -15,4 +15,4 @@ MonoBehaviour:
   RootLifetimeScope: {fileID: 3820918676657934554, guid: 3919f7f3475e36148a4a775d74f165ac, type: 3}
   EnableDiagnostics: 1
   DisableScriptModifier: 0
-  RemoveClonePostfix: 0
+  RemoveClonePostfix: 1
